@@ -245,7 +245,7 @@ sup {
   background-color: #555;  /* very dark gray */
 }
 
-/*** MEDIA QUERIES ends at end of document, approx line 359 ***/
+/*** MEDIA QUERIES ends at end of document, approx line 369 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
     margin: 1em;
